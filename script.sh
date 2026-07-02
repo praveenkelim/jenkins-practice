@@ -32,3 +32,4 @@ git log --oneline -1
 
 echo "===== Build Completed Successfully ====="#!/bin/bash
 
+echo "this is created to test automatic trigger by github webhook trigger"
